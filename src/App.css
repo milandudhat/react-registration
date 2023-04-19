@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.alert-for-required{
+  color: red;
+  font-size: 20px;
+  margin-top: 5px;
+}
